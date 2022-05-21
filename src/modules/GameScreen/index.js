@@ -1,0 +1,1 @@
+export { GameScreen } from './pages/GameScreen';
